@@ -10,4 +10,7 @@ features :
   - activate virtual environnment to access app in browser 
   -python version 2.7 or upper versions should be installed on your desktop
    
-  enjoy this app ! 
+Important :
+  -You should unzip zipped files , they contain configuration folders important to run the app
+ 
+   enjoy this app !
