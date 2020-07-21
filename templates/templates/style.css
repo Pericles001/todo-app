@@ -1,0 +1,18 @@
+*{
+	font-family: monospace;
+	font-size: 30px;
+	background: linear-gradient(-90deg,blue,yellow, white); 
+
+}
+
+h1,h2,h3{
+	text-align: center; 
+	font-weight: bolder;
+	color: white;
+	margin-top: 35px;
+}
+
+
+input{
+	border-radius: 10px; 
+}
